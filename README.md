@@ -8,9 +8,9 @@ Thin wrapper that returns SQLite3 select result as tuple, sqlite3.Row, namedtupl
 
 # DEMO
 
-* [demo](https://ytyaru.github.io/Python.sqlite3.row_factory.cast.20221018161507/)
+* [demo](https://ytyaru.github.io/Python.sqlite3.row_factory.cast.insert.20221018161507/)
 
-![img](https://github.com/ytyaru/Python.sqlite3.row_factory.cast.20221018161507/blob/master/doc/0.png?raw=true)
+![img](https://github.com/ytyaru/Python.sqlite3.row_factory.cast.insert.20221018161507/blob/master/doc/0.png?raw=true)
 
 # Features
 
@@ -68,8 +68,8 @@ pyenv install 3.10.5
 ## this works
 
 ```sh
-git clone https://github.com/ytyaru/Python.sqlite3.row_factory.cast.20221018161507
-cd Python.sqlite3.row_factory.cast.20221018161507/src
+git clone https://github.com/ytyaru/Python.sqlite3.row_factory.cast.insert.20221018161507
+cd Python.sqlite3.row_factory.cast.insert.20221018161507/src
 ```
 
 # Usage
